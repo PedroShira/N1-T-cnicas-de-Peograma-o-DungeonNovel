@@ -24,4 +24,4 @@ while (Sala != 9) and (Jogadas <7):
 if Sala == 9:
   print ('\nVocês chegam a última sala e notam um grande 9 no chão.\nÉ um laboratório e no meio um grande portal ativo mostra um exército enorme de devoradores de mente, seu inventor, acreditando que eles estavam redirecionando o portal para a superficie do reino, grita para desativarem o portal.\nE atravéz de uma grande luta contra os devoradores de mentes que tentam lhes impedir, vocês conseguem finalmente desativar o portal, vencendo os devoradores.\n\n- Muito obrigado meu senhor. Apesar das mortes na batalha final, amanhã comemoraremos a nossa vitória. Hoje deixaremos nossos sobreviventes descansarem e honraremos a coragem daqueles que se foram por nós.\nDisse o Paladino\n.')
 elif Jogadas >= 7:
- print("COLAR TEXTO AQUI")
+ print("\nVocês ouvem barulhos de explosão vindos da superfície, Vocês não chegaram a tempo e os devoradores de mente atacaram o reino, não tem tempo para mais nada além de ver o teto desabar em suas cabeças\n")
