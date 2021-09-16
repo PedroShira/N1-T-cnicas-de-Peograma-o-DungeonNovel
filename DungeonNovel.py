@@ -7,7 +7,7 @@ caminho = 0
 print('Ah! Então você é o lider da guilda? Seja bem vindo!\n''Aquele ali é o calabouço que dissemos nas cartas, nossos batedores indentificaram devoradores de mentes, seres que dominaram a capacidade de distorcer o próprio espaço tempo para viagens instantâneas, achamos que eles estão planejando um ataque ao reino, por isso chamamos você.\n''Por favor nos ajude!\n\n No mesmo instante você aceitou a proposta')
 while (Sala != 9) and (Jogadas <7):
   if Sala in SalasIniciais:
-    print('COLAR TEXTO AQUI', Sala)
+    print('Você entra em uma sala, a porta se fecha e vocês se veem em uma sala cheia de devoradores de mentes, após derrotá-los.\nO ladino percebe um grande número no chão. \n indicando que estão na sala: ', Sala)
     caminho = int(input(
    '\nQual caminho devemos seguir senhor?'
     '\n(Digite 1 para seguir o caminho vermelho ou 2 para o preto)\n'))
