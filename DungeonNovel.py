@@ -4,7 +4,7 @@ Sala = 1
 SalasIniciais = 1,2,3,4,5,7,8
 caminho = 0
 
-print('COLAR TEXTO AQUI')
+print('Ah! Então você é o lider da guilda? Seja bem vindo!\n''Aquele ali é o calabouço que dissemos nas cartas, nossos batedores indentificaram devoradores de mentes, seres que dominaram a capacidade de distorcer o próprio espaço tempo para viagens instantâneas, achamos que eles estão planejando um ataque ao reino, por isso chamamos você.\n''Por favor nos ajude!\n\n No mesmo instante você aceitou a proposta')
 while (Sala != 9) and (Jogadas <7):
   if Sala in SalasIniciais:
     print('COLAR TEXTO AQUI', Sala)
